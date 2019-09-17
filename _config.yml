@@ -9,16 +9,16 @@ url: "https://katieb1.github.io/" # the base hostname & protocol for your site, 
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: The Wonderful World of Data Science # add banner title
+banner-desc: UBC Masters of Data Science # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Katie Birchard
 about-author: Aspiring data scientist
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: birchardkatie@gmail.com # your email
+#phone: (496)-169-6557 # your pnone number
+#website: https://dwayne.example.com # you website
 
 # Social link
 google_url:    # add url link
